@@ -1,6 +1,6 @@
 ## Este projeto foi feito com:
 
-* Angular JS
+* Angular 12
 
 ## Como rodar o projeto?
 
