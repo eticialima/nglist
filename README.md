@@ -13,7 +13,7 @@ Feito com Python e Django.
 
 ### frontend
 
-Feito com AngularJS.
+Feito com Angular 12.
 
 [Como rodar o frontend](franchiseAdmin/README.md)
 
