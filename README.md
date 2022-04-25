@@ -8,14 +8,14 @@
 
 This project was made with python/django
 
-[how to run backend](server/README.md)
+[how to run backend](franchise/README.md)
 
 
 ### frontend
 
 This project was made with Angular 12.
 
-[how to run frontend](frontend/README.md)
+[how to run frontend](franchiseAdmin/README.md)
 
 
 ### Thanks ❤️
