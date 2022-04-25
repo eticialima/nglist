@@ -2,23 +2,23 @@
 
 <img src="docs/demo.png?raw=true"/>
 
-## Como rodar o projeto
+## how to run the project?
 
 ### backend
 
-Feito com Python e Django.
+This project was made with python/django
 
-[Como rodar o backend](franchise/README.md)
+[how to run backend](server/README.md)
 
 
 ### frontend
 
-Feito com Angular 12.
+This project was made with Angular 12.
 
-[Como rodar o frontend](franchiseAdmin/README.md)
+[how to run frontend](frontend/README.md)
 
 
-### Obrigada ❤️
+### Thanks ❤️
 [@eticialima](https://www.instagram.com/eticialima)
 
 ### buymeacoffee buymeacoffee
